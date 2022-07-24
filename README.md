@@ -3,8 +3,9 @@
 ##
 
 - 🔭 Estou trabalhando atualmente com PHP Codeiginiter e Laravel
-- 🌱 Estou estudando Node.js 
+- 🌱 Estou estudando sobre APIs 
 - 👯 Desenvolvendo Sites utilizando WordPress e Elementor
+- 👯 Desenvolvendo Sistemas utilizando Laravel
 - 💬 <a href="ricardojuniorti.com" target="_blank">Meu Site</a>
 
  <div>
